@@ -46,6 +46,7 @@
                 <configuration>
                     <source>16</source>
                     <target>16</target>
+                    <fork>true</fork>
                     <compilerArgs>
                         <arg>-Xlint:unchecked</arg>
                         <arg>-Xlint:deprecation</arg>
